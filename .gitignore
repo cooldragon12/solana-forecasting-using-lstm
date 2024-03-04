@@ -1,0 +1,10 @@
+**/lightning_logs 
+
+**/**env
+
+**/__pycache__
+
+**/checkpoints
+
+**test_**.pkl
+**train_**.pkl
